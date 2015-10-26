@@ -28,7 +28,7 @@ public class EmailUtil {
                     @Override
                     public void run() {
                         final String username = "longcuidev@gmail.com";
-                        final String password = "clclzpzp";
+                        final String password = "tuncodev";
 
                         Properties props = new Properties();
                         props.put("mail.smtp.auth", "true");
